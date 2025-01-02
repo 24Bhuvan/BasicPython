@@ -12,5 +12,4 @@ With the else statement we can run a block of code once when the condition no lo
         print("i is no longer less than 6")
 if __name__=="__main__": 
     while_demo() 
-
 #For creating an empty block for defined functions,condtionals, loops use "pass"

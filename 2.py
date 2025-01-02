@@ -1,7 +1,5 @@
 #VARABLES AND DATA TYPES:
 #Python has no command for declaring a variable.
-
-
 def data_Types():
     """
 Variables types:
@@ -27,8 +25,6 @@ None Type:	NoneType
     print(type(int(score)))
     print(type(str(age)))
     print(type(float(age)))
-
-
 def Variable_Assigning():
     """
 Variable Naming Rules:
@@ -54,13 +50,9 @@ A variable name cannot be any of the Python keywords.
     print(x)
     print(y)
     print(z)
-
-
 if __name__=="__main__":
     data_Types()
     Variable_Assigning()
-
-  
 def Global_keyword():
   """
   GLOBAL VARIABLE- stays outside function and can be accessed by any function
@@ -68,8 +60,6 @@ def Global_keyword():
   """
   global x #Converts local keyword to global keyword
   x = "fantastic"
-
-  
 if __name__=="__main__":
     Global_keyword()
 print("Python is " + x)
