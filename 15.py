@@ -1,3 +1,4 @@
+#F-STRING
 #To specify a string as an f-string, simply put an f in front of the string literal, like this:
 Name = "Bhuvan Ummidisetti"
 Age = 18
