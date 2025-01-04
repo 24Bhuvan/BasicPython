@@ -1,4 +1,4 @@
-#LOOPS:
+#WHILE LOOP:
 def while_demo():
     """
 The else Statement:

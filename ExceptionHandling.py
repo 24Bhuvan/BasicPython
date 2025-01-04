@@ -1,3 +1,4 @@
+#EXCEPTION HANDLING
 def divide_numbers(a, b):
   """
   This function divides two numbers and handles potential exceptions.
